@@ -349,6 +349,9 @@ margin-right: 10%;
     margin-left: 40%;
     margin-right: 40%;
 }
+.footer-social img{
+    width: 40px;
+}
 
 .footer-legal{
     display: flex;
