@@ -953,3 +953,37 @@ background: #2A0060;
     margin-bottom: 30px;
 }
 }
+
+/* Landing community */
+.about-txt .title-com{
+    margin-bottom: 0px;
+}
+.about-txt .comm{
+    margin: 35px 0;
+}
+.about-txt .commb{
+    text-align: left;
+}
+.about-txt .commc{
+    margin-top: 35px;
+    margin-bottom: 100px;
+}
+.about-txt .commd{
+    margin-top: 0px;
+    margin-bottom: 35px;
+}
+.about-txt ul{
+    text-align:left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.about-txt li{
+    margin-bottom: 10px;
+}
+#gras{
+    text-decoration: none;
+    color: #111;
+}
+#btx{
+    margin-left: 60px;
+}
