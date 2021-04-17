@@ -987,3 +987,11 @@ background: #2A0060;
 #btx{
     margin-left: 60px;
 }
+
+@media (max-width: 450px){
+.about-txt iframe {
+    height: 170px;
+    width: 250px;
+    margin: 25px 1em;
+}
+}
